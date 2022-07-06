@@ -3,8 +3,8 @@
 namespace ZnCore\QueryFilter\Traits;
 
 use Psr\EventDispatcher\EventDispatcherInterface;
-use ZnCore\Domain\Domain\Enums\EventEnum;
-use ZnCore\Domain\Domain\Events\QueryEvent;
+use ZnCore\Domain\Enums\EventEnum;
+use ZnCore\Domain\Events\QueryEvent;
 use ZnCore\Query\Entities\Query;
 use ZnCore\QueryFilter\Helpers\FilterModelHelper;
 
