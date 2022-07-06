@@ -1,0 +1,21 @@
+{
+  "name": "zncore/query-filter",
+  "type": "extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zn Developer",
+      "email": "zndev@ya.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "ZnCore\\QueryFilter\\": "src",
+      "ZnCore\\QueryFilter\\Tests\\": "tests"
+    }
+  }
+}
